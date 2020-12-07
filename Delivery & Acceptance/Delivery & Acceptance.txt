@@ -1,1 +1,3 @@
 This section is about  Delivery & Acceptance
+
+The project will be delivered as Web App which built with Python Flask
